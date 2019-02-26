@@ -50,7 +50,7 @@ You will print:
 * Average turnaround and response time
 * Completion order
 
-At the end of the program's execution. Here's an example run of the program below:
+...at the end of the program's execution. Here's an example run of the program below:
 
 ```
 $ ./scheduler fifo processes2.txt
