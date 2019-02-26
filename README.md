@@ -1,4 +1,4 @@
-# Lab 4: CPU Scheduling
+# Lab 7: CPU Scheduling
 
 In this lab, we'll be implementing CPU scheduling algorithms. We could actually design our own Linux kernel modules for this, but the complexity is extreme: CFS (Completely Fair Scheduling) is somewhere around 10,000 lines of code!
 
